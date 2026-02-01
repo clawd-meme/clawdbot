@@ -3,12 +3,12 @@
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/clawdbot/clawdbot/main/docs/assets/clawdbot-logo-text-dark.png">
-        <img src="https://raw.githubusercontent.com/clawdbot/clawdbot/main/docs/assets/clawdbot-logo-text.png" alt="Clawdbot" width="500">
+![Clawdbot](assets/Cover.jpeg)
     </picture>
 </p>
 
 <p align="center">
-  <strong>EXFOLIATE! EXFOLIATE!</strong>
+  <strong>Clawdbot: automate the busywork.</strong>
 </p>
 
 <p align="center">

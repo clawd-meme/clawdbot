@@ -14,7 +14,7 @@ x-i18n:
 
 # Clawdbot 🦞
 
-> _"EXFOLIATE! EXFOLIATE!"_ — 大概是一只太空龙虾说的
+> _"Clawdbot: automate the busywork."_ — 大概是一只太空龙虾说的
 
 <p align="center">
     <img

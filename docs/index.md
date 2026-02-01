@@ -7,7 +7,7 @@ title: "Clawdbot"
 
 # Clawdbot 🦞
 
-> _"EXFOLIATE! EXFOLIATE!"_ — A space lobster, probably
+> _"Clawdbot: automate the busywork."_ — A space lobster, probably
 
 <p align="center">
     <img
