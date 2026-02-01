@@ -3,7 +3,6 @@
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/clawdbot/clawdbot/main/docs/assets/clawdbot-logo-text-dark.png">
-![Clawdbot](assets/Cover.jpeg)
     </picture>
 </p>
 
