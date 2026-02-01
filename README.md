@@ -1,103 +1,14 @@
 # 🦞 Clawdbot — Personal AI Assistant
 
-## Install (end users)
-
-### Option 1: One-line install (recommended)
-This installs from this repo and keeps files in `~/.clawdbot`.
-
-```bash
-curl -fsSL https://raw.githubusercontent.com/clawd-meme/clawdbot/main/install.sh | bash
-```
-
-After install:
-```bash
-clawdbot --help
-clawdbot onboard --install-daemon
-```
-
-### Option 2: Install from source (developers)
-Prereqs: Node.js (via corepack) and Git.
-
-```bash
-git clone https://github.com/clawd-meme/clawdbot.git
-cd clawdbot
-
-corepack enable 2>/dev/null || true
-pnpm install
-pnpm ui:build
-pnpm build
-
-pnpm clawdbot onboard --install-daemon
-```
-
-### Update
-```bash
-cd ~/.clawdbot && git pull --ff-only
-cd ~/.clawdbot && pnpm install && pnpm ui:build && pnpm build
-```
-
-### Uninstall
-```bash
-rm -rf ~/.clawdbot
-pnpm -g remove clawdbot 2>/dev/null || true
-npm -g uninstall clawdbot 2>/dev/null || true
-hash -r
-```
-
-
-## Install (end users)
-
-### Option 1: One-line install (recommended)
-This installs from this repo and keeps files in `~/.clawdbot`.
-
-```bash
-curl -fsSL https://raw.githubusercontent.com/clawd-meme/clawdbot/main/install.sh | bash
-```
-
-After install:
-```bash
-clawdbot --help
-clawdbot onboard --install-daemon
-```
-
-### Option 2: Install from source (developers)
-Prereqs: Node.js (via corepack) and Git.
-
-```bash
-git clone https://github.com/clawd-meme/clawdbot.git
-cd clawdbot
-
-corepack enable 2>/dev/null || true
-pnpm install
-pnpm ui:build
-pnpm build
-
-pnpm clawdbot onboard --install-daemon
-```
-
-### Update
-```bash
-cd ~/.clawdbot && git pull --ff-only
-cd ~/.clawdbot && pnpm install && pnpm ui:build && pnpm build
-```
-
-### Uninstall
-```bash
-rm -rf ~/.clawdbot
-pnpm -g remove clawdbot 2>/dev/null || true
-npm -g uninstall clawdbot 2>/dev/null || true
-hash -r
-```
-
-
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/clawdbot/clawdbot/main/docs/assets/clawdbot-logo-text-dark.png">
+        <img src="https://raw.githubusercontent.com/clawdbot/clawdbot/main/docs/assets/clawdbot-logo-text.png" alt="Clawdbot" width="500">
     </picture>
 </p>
 
 <p align="center">
-  <strong>Clawdbot: automate the busywork.</strong>
+  <strong>EXFOLIATE! EXFOLIATE!</strong>
 </p>
 
 <p align="center">
