@@ -1,0 +1,14 @@
+{
+  "name": "@clawdbot/imessage",
+  "version": "2026.1.30",
+  "description": "Clawdbot iMessage channel plugin",
+  "type": "module",
+  "devDependencies": {
+    "clawdbot": "workspace:*"
+  },
+  "clawdbot": {
+    "extensions": [
+      "./index.ts"
+    ]
+  }
+}

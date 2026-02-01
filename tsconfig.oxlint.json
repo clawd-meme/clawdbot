@@ -1,0 +1,11 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "clawdbot": ["./src/index.ts"],
+      "clawdbot/*": ["./src/*"]
+    }
+  },
+  "include": ["src/**/*", "extensions/**/*", "packages/**/*"]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@clawdbot/voice-call",
+  "version": "2026.1.30",
+  "description": "Clawdbot voice-call plugin",
+  "type": "module",
+  "dependencies": {
+    "@sinclair/typebox": "0.34.48",
+    "ws": "^8.19.0",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "clawdbot": "workspace:*"
+  },
+  "clawdbot": {
+    "extensions": [
+      "./index.ts"
+    ]
+  }
+}

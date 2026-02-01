@@ -1,0 +1,14 @@
+{
+  "name": "@clawdbot/whatsapp",
+  "version": "2026.1.30",
+  "description": "Clawdbot WhatsApp channel plugin",
+  "type": "module",
+  "devDependencies": {
+    "clawdbot": "workspace:*"
+  },
+  "clawdbot": {
+    "extensions": [
+      "./index.ts"
+    ]
+  }
+}

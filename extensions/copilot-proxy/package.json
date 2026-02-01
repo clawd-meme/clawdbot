@@ -1,0 +1,14 @@
+{
+  "name": "@clawdbot/copilot-proxy",
+  "version": "2026.1.30",
+  "description": "Clawdbot Copilot Proxy provider plugin",
+  "type": "module",
+  "devDependencies": {
+    "clawdbot": "workspace:*"
+  },
+  "clawdbot": {
+    "extensions": [
+      "./index.ts"
+    ]
+  }
+}

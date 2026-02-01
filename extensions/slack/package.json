@@ -1,0 +1,14 @@
+{
+  "name": "@clawdbot/slack",
+  "version": "2026.1.30",
+  "description": "Clawdbot Slack channel plugin",
+  "type": "module",
+  "devDependencies": {
+    "clawdbot": "workspace:*"
+  },
+  "clawdbot": {
+    "extensions": [
+      "./index.ts"
+    ]
+  }
+}
